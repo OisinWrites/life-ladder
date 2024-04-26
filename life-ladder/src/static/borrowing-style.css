@@ -1,0 +1,14 @@
+button {
+    padding: 8px 16px;
+    margin: 5px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+button.active {
+    background-color: blue;
+    color: white;
+}
